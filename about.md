@@ -5,80 +5,71 @@ permalink: /me/
 order: 3
 ---
 
-![image]({{ site.baseurl }}/assets/img/me/ab-amman.jpg){: .float-right .ml-4 .mypic width="300px"}
-#### I am an architect, designer, web developer, visual communicator engaged in a [variety of projects]({{ site.baseurl }}/) involving data visualization, visual storytelling and learning through play.
+![image]({{ site.baseurl }}/assets/img/me/profile.jpg){: .float-right .ml-4 .mypic width="400px"}
+### I am a data-driven project integrator with hands-on research experience, working across [the startup ecosystem, government, and academia]({{ site.baseurl }}/).
 
-I have led [award winning]({{ site.baseurl }}/world/) infographics projects as a partner with [Visualizing Impact](https://visualizingimpact.org){: target="_blank"}, contributed to [various publications]({{ site.baseurl }}/world/), and have facilitated courses and workshops based on my practices in cities including Beirut, London, Lisbon, Amman and Bangalore. In my spare time I have been developing [MyToyTown](https://mytoytown.co){: target="_blank"}, a slot-together wooden play system for kids.
+<div style="height:1rem;"></div>
+
+The common thread through my work is a care for detail—a need to understand how each piece fits before I trust the whole. Whether I'm orchestrating nationwide research projects, building data pipelines, or refining a workflow, I'm drawn to the same thing: turning messy, real-world complexity into something structured, reliable, and clear. 
+
+<div style="height:0.1rem;"></div>
+
+That same instinct draws me to good design, and it's why I care not just about getting the analysis right, but about making it genuinely usable for the people who depend on it. My toolkit spans data analytics, survey research, and AI-assisted workflows.
+
+<div style="height:0.1rem;"></div>
+
+You can find my [**CV here**](https://www.dropbox.com/scl/fi/eha5y4tul7v26v2qi8h9o/IKai_Curriculum_Vitae.pdf?rlkey=ys57q7nnlry8tequ1r0hmar16&st=aehk6vwi&dl=0).
 
 ---
 
-##### [+ Expertise](#collapse0){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse0"}
+##### [+ Work experience](#collapse0){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse0"}
 
-The common thread through my work is a desire to build impactful projects that engage with real people and communities. Each project is unique, and I find myself constantly learning by doing, and doing my best to impart this knowledge to others. I have made use of a wide variety of tools and technologies in my work, including web coding languages **(HTML, CSS, Javascript, Svelte, D3, PHP)**, GIS and mapping tools **(QGIS, GDAL, Maplibre)**, data processing **(Python, Excel, SQL)**, graphic design software **(Photoshop, Illustrator)**, CAD/BIM software **(Rhino, Revit, Sketchup, AutoCAD)**, and digital fabrication technologies **(laser cutting, CNC routing, 3D printing)**.
+* 2025–Present **Research Assistant (Full-time)**, Institute of Political Science, Academia Sinica (IPSAS)
+  * Orchestrated the end-to-end lifecycle of nationwide research projects, managing thousands of respondents and ensuring full compliance with IRB ethical guidelines and data privacy protocols.
+  * Applied statistical and causal inference methods to evaluate experimental outcomes, synthesizing theoretical insights and empirical findings into structured reports that supported policy analysis and academic research.
+  * Maintained scalable tracking systems and reporting workflows to facilitate cross-functional communication across multi-stage research initiatives.
+* 2023–2025 **Research Assistant (Part-time)**, Institute of Political Science, Academia Sinica (IPSAS)
+  * Established automated Python scripts for large-scale data cleaning and validation, integrating 10M+ records from diverse international sources—including World Bank datasets, trade statistics, and political event databases—into a consolidated pipeline for quantitative research.
+* 2022–2023 **Operations Team Intern**, Taiwan Tech Arena (TTA)
+  * Managed CRM records for 500+ resident members, resolving communication bottlenecks to improve follow-up efficiency and stakeholder engagement across the startup community.
+  * Coordinated partnership initiatives and 10+ high-profile events involving startups, VCs, and government agencies across 20+ countries.
+  * Supported the curation of 50 startups for "Meet Taipei," managing exhibition logistics and partner resource alignment.
+* 2021 **North American Affairs Intern**, Ministry of Foreign Affairs (MOFA)
+  * Analyzed geopolitical developments across North America, drafting 20+ actionable bilingual reports for senior leadership through rigorous multi-source fact-checking.
+  * Crafted strategic briefing decks and proposal recommendations for the Director-General regarding international academic exchange initiatives.
 {: .collapse id="collapse0"}
 
 ---
 
-##### [+ Talks & workshops](#collapse3){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse3"}
+##### [+ Selected projects](#collapse1){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse1"}
 
-* 2021 **Building for Impact** (Talk), S-H-O-W: Visualising Impact, Amsterdam
-* 2021 **Crowdsourcing Names for Statistical Neighbourhoods** (Workshop), Mozilla Festival, Amsterdam
-* 2019 **Palestine Open Maps Mapathon** (Workshop), Creative Commons Global Summit, Lisbon
-* 2018 **Storytelling with Data** (Training), Issam Fares Institute, American University of Beirut
-* 2015 **Data4Change** (Facilitator/Co-Organizer), Beirut
-* 2014 **Visualizing Impact** (Talk), CFI 4M Beirut Forum
-* 2014 **Making Change Production Sprint** (Facilitator/), Centre for Internet & Society, Bangalore
-* 2014 **Infographics with a Cause** (Talk), Columbia University Studio-X Amman
-* 2012 **Design Challenge: Visualizing the Viral Spread of CC Content** (Facilitator), Mozilla Festival, London
-{: .collapse id="collapse3"}
-
----
-
-##### [+ University teaching](#collapse4){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse4"}
-
-* 2017 & 2019 **Telling Stories with Data**, Académie Libanaise Des Beaux-Arts, Beirut
-* 2016 **Introduction to Infographics**, Académie Libanaise Des Beaux-Arts, Beirut
-* 2015 **Information Design for Architects**, American Lebanese University 
-* 2013 **Architecture / First Year Studio**, American University of Beirut
-{: .collapse id="collapse4"}
-
----
-
-##### [+ Exhibitions](#collapse5){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse5"}
-
-* 2020 **One Map, Multiple Mediums**, Dar El-Nimer for Arts & Culture, Dubai
-* 2019 **A National Monument**, Dar El-Nimer for Arts & Culture, Beirut
-* 2017 **A Sea of Stories**, Dar El-Nimer for Arts & Culture, Beirut
-{: .collapse id="collapse5"}
-
----
-
-##### [+ Awards & fellowships](#collapse6){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse6"}
-
-* 2019 **Palestinian Oral History Archive Fellowship**, American University of Beirut
-* 2017 **Kafalat SME Innovation Grant** (for developing MyToyTown), Lebanon
-* 2014 **The Bobs Best Social Activism Award** (for work with Visualizing Palestine), Berlin
-* 2013 **Prix Ars Electronica Digital Community Award** (for work with Visualizing Palestine), Linz
-* 2013 **Information is Beautiful Community Award** (for work with Visualizing Impact), London
-* 2009 **Summer Residency**, Decolonizing Architecture Art Residency (DAAR), Bethlehem
-* 2006 **EPSRC Studentship**, University of Cambridge
-{: .collapse id="collapse6"}
-
----
-
-##### [+ Academic studies](#collapse1){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse1"}
-
-* 2012 PGDip **Architectural Practice** (RIBA Part III), University of Cambridge
-* 2010 MArch **Master of Architecture** (RIBA Part II), Cardiff University
-* 2007 MPhil **Environmental Design in Architecture**, University of Cambridge
-* 2004 MEng **Architecture & Building Engineering** (RIBA Part I/CIBSE), University of Nottingham
+* **E-commerce Pricing Strategy & Text Mining** — Developed a pricing analysis framework using BERT and SVM models to classify 14,000+ items, identifying seasonal trends to optimize platform supply-demand balance.
+* **Marketing Optimization & DOE Testing** — Implemented a GA-based testing framework for 4,800 users, analyzing conversion rates across 24 test groups to quantify business impact.
+* **Bank Currency Exchange UX/UI Project** — Conducted user research and wireframing for online foreign exchange services, transforming user insights into product improvements through hi-fi prototyping, usability testing, and feedback analysis.
 {: .collapse id="collapse1"}
 
 ---
 
-##### [+ Professional studies](#collapse2){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse2"}
+##### [+ Research & presentations](#collapse2){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse2"}
 
-* 2017 **Create Programme**, SmartESA Startup Accelerator, Beirut
-* 2008 **BREEAM Registered Professional**, BRE, UK
-* 2006 **LEED Accredited Professional**, US Green Building Council
+* **Midwest Political Science Association Annual Conference**, Chicago, USA — invited to present thesis findings at a premier global conference in the field
+* **Swiss–Taiwan IPE Workshop**, Bern, Switzerland — invited to present, engaging with think-tank scholars and senior officials
 {: .collapse id="collapse2"}
+
+---
+
+##### [+ Education](#collapse3){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse3"}
+
+* 2021–2025 **M.A. in Diplomacy (International Relations)**, National Chengchi University
+  * Specialization in International Political Economy; coursework in Statistical Business Analysis, Text Mining Applications in Business, Machine Learning, and User Experience Design.
+* 2018–2021 **B.A. in Political Science with Honors & Minor in Psychology**, Soochow University
+{: .collapse id="collapse3"}
+
+---
+
+##### [+ Skills](#collapse4){: data-toggle="collapse" role="button" aria-expanded="false" aria-controls="collapse4"}
+
+* **Languages:** Mandarin (Native), English (Fluent, TOEFL 105), German (CEFR B1)
+* **Data & Analytics:** SQL, Tableau, Python, R, Google Analytics & Workspace, Qualtrics
+* **AI & Workflow:** Claude Code, Codex, NotebookLM, Notion, Figma
+{: .collapse id="collapse4"}

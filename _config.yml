@@ -18,20 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ahmad barclay
-email: arkbarclay@cantab.net
+title: matthew wang
+email: kim75559@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an architect, visual communicator and product designer actively engaged in a variety of projects involving data visualization, visual storytelling and learning through play.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ahmadbarclay.com" # the base hostname & protocol for your site, e.g. http://example.com
+  Cross-functional project integrator and hands-on independent researcher, working across government, academia, and Taiwan's startup ecosystem.
+baseurl: "/portfolio-website" # the subpath of your site, e.g. /blog
+url: "https://matkim1369.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:slug/
-twitter_username: bothness
-github_username: bothness
-medium_username: bothness
-linkedin_username: bothness
-mastodon:
-- username: bothness
-  instance: vis.social
+github_username: matkim1369
+linkedin_username: ikaiwang
 
 # Build settings
 theme: minima
