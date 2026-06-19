@@ -33,3 +33,7 @@ I redesigned presentation templates and briefing decks used in official settings
 ## Official Mask Visual Design
 
 I designed the key visual for official face masks worn by senior Taiwan and U.S. officials. Treating the mask as a vehicle for official messaging, I balanced creative ambition with institutional restraint—using overlapping bird wings and joined hands, alongside a simplified national emblem, to convey a strong bilateral partnership. After minor revisions to meet official requirements, the masks went into production and were worn at allied delegations and national ceremonies, including by former U.S. Secretary of State Mike Pompeo.
+
+--- 
+
+- **Skills:** Cross-Functional Collaboration · Executive Presentation Design · Branding and Messaging · Visual Communication

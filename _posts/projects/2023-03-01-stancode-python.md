@@ -1,6 +1,6 @@
 ---
 layout: project
-title: StandCode - From building Python Foundations to Algorithms
+title: stanCode - From building Python Foundations to Algorithms
 year: "January — July 2023"
 categories: project data-analysis
 img: assets/img/projects/sc-python-preview.png
@@ -20,9 +20,9 @@ The deeper I got into data-driven work, the clearer it became that I didn't want
 
 ## What I learned
 
-- **Programming fundamentals (SC001).** Starting from the Karel robot, I built up the core building blocks of programming—decomposition, loops, conditional logic, functions and variables—then moved into string manipulation, file reading, and basic image processing, completing hands-on assignments that turned concepts into working programs.
+- **Programming fundamentals ([SC001](https://stancode.tw/sc001/)).** Starting from the Karel robot, I built up the core building blocks of programming—decomposition, loops, conditional logic, functions and variables—then moved into string manipulation, file reading, and basic image processing, completing hands-on assignments that turned concepts into working programs.
 
-- **Object-oriented programming & data structures (SC101).** I learned to build Python classes (constructors, attributes, methods, inheritance) and to work with both basic and advanced data structures—lists, stacks, queues, dictionaries, trees, and linked lists—alongside the memory logic underneath them.
+- **Object-oriented programming & data structures ([SC101](https://stancode.tw/sc101/)).** I learned to build Python classes (constructors, attributes, methods, inheritance) and to work with both basic and advanced data structures—lists, stacks, queues, dictionaries, trees, and linked lists—alongside the memory logic underneath them.
 
 - **Algorithms & applied projects.** The advanced course covered recursion and search algorithms (DFS, BFS) with LeetCode practice, and applied everything to richer builds—an interactive brick-breaker game, a big-data search interface, web scraping (requests, BeautifulSoup), and data visualization with tkinter.
 
@@ -30,4 +30,6 @@ The deeper I got into data-driven work, the clearer it became that I didn't want
 
 Beyond the syntax, the course changed how I think about problems—breaking the unfamiliar into smaller, solvable pieces. Most importantly, once code stopped feeling foreign, I found myself able to grasp the underlying logic of almost any software I touch, and far more curious about how it all works. That foundation directly underpins the Python-based analysis in my other projects.
 
-**Skills:** Python · Object-Oriented Programming · Data Structures · Algorithms (recursion, DFS/BFS) · Web Scraping (requests, BeautifulSoup) · tkinter
+---
+
+- **Skills:** Python · Object-Oriented Programming · Data Structures · Algorithms (recursion, DFS/BFS) · Web Scraping (requests, BeautifulSoup) 

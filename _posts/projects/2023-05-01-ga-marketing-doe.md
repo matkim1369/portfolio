@@ -20,7 +20,7 @@ images:
 ---
 A marketing-optimization project that reframed a routine promotional send as a controlled experiment. Working with a travel-gear e-commerce brand, the goal was to re-engage a large pool of lapsed members cost-effectively—ahead of a limited-time luggage group-buy—using only the channels and customer data the business already owned.
 
-This project grew out of NTU's **CTPS (Critical Thinking and Problem Solving)** course, a selective, company-partnered program focused on tackling unfamiliar, open-ended problems. The course's core methodology—work backward from the goal, generate and screen many ideas before committing, and validate through real-world experimentation—shaped how I approached the whole campaign.
+This project grew out of NTU's [**CTPS (Critical Thinking and Problem Solving)**](https://ntuctps.com/) course, a selective, company-partnered program focused on tackling unfamiliar, open-ended problems. The course's core methodology—work backward from the goal, generate and screen many ideas before committing, and validate through real-world experimentation—shaped how I approached the whole campaign.
 
 ## What I did
 
@@ -32,4 +32,6 @@ This project grew out of NTU's **CTPS (Critical Thinking and Problem Solving)** 
 
 - **Translated results into an actionable recipe.** Factor analysis against a 0.34% baseline click rate isolated four winning levers—rational copy, no discount, a free gift, and a custom subject line—that could be combined and re-tested to optimize future campaigns.
 
-**Tools:** Google Analytics · UTM tracking · Design of Experiments (DOE) · Funnel analysis
+---
+
+- **Skills:** Google Analytics · UTM tracking · Design of Experiments (DOE) 

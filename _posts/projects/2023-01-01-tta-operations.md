@@ -19,4 +19,8 @@ images:
 - url: tta-pm-07.png
   caption: "**Publication & startup interviews.**<br>Alongside the events above, I planned and wrote exclusive interview features on startup-ecosystem alumni, deepening my understanding of how different industries were developing."
 ---
-After moving to this internship at Taiwan Tech Arena (TTA), the projects I handled grew far more varied, and the people I worked with shifted from government officials to a wide mix of accelerators, venture capitalists, tech companies, startup teams, and prominent Silicon Valley investors—both domestic and international. The scope was larger, but so was the level of detail to manage. Alongside applying the communication skills I'd built working with government bodies, I gradually developed the ability to build networks through CRM tools and to raise visibility through event planning.
+After moving to this internship at [Taiwan Tech Arena (TTA)](https://www.taiwanarena.tech/), the projects I handled grew far more varied, and the people I worked with shifted from government officials to a wide mix of accelerators, venture capitalists, tech companies, startup teams, and prominent Silicon Valley investors—both domestic and international. The scope was larger, but so was the level of detail to manage. Alongside applying the communication skills I'd built working with government bodies, I gradually developed the ability to build networks through CRM tools and to raise visibility through event planning.
+
+---
+
+- **Skills:** Stakeholder Management · Project Coordination · Partnership Development

@@ -17,10 +17,12 @@ images:
 - url: ecommerce-06.jpg
   caption: "Translating the analysis into four concrete pricing strategies—festival-driven windows, segment-specific bundling, trend-led inventory, and trust-economy pricing."
 ---
-A text-mining and pricing-analysis project for Jambo Live, a Taiwanese live-commerce platform. By analyzing over three million health-product transactions, I set out to uncover how demand shifts across seasons and customer segments—and turn those patterns into actionable, data-driven pricing strategies that lift average order value during off-peak periods.
+[View Our Project](https://github.com/matkim1369/jambo-pricing-text-mining){: target="_blank"}
 
-The work combined natural-language processing (TF-IDF and an SVM classifier trained on Shopee's product catalog) with customer segmentation and Google Trends analysis. The slides below walk through the business problem, the two-stage pipeline, the key findings, and the resulting pricing recommendations.
+A pricing and product-classification project for [Jambo Live](https://jambolive.tv/), a Taiwanese live-commerce platform. By analyzing over three million health-product transactions, I set out to uncover how demand shifts across seasons and customer segments—and turn those patterns into actionable, data-driven pricing strategies that lift average order value during off-peak periods.
 
-**Tools:** Python · Scikit-learn (SVM, TF-IDF) · Pandas · Matplotlib · Google Trends API
+The project combined large language model (LLM)-based product classification using BERT embeddings with customer segmentation and Google Trends analysis. Leveraging [Shopee's product catalog](https://seller.shopee.com.my/edu/category-guide/) as a training reference, I developed a scalable pipeline to transform unstructured product information into a standardized classification system, enabling deeper analysis of demand patterns, pricing performance, and consumer behavior. The slides below walk through the business problem, methodology, key findings, and resulting pricing recommendations.
 
-[View the Project](https://github.com/matkim1369/jambo-pricing-text-mining){: target="_blank"}
+---
+
+**Skills:** BERT · TF-IDF · Support Vector Machine (SVM) · Logistic Regression · Naive Bayes · Pandas · Matplotlib

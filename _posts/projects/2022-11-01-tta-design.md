@@ -11,7 +11,7 @@ images:
 - url: tta-design-03.jpg
 - url: tta-design-04.jpg
 ---
-A campaign design project for Taiwan Tech Arena's (TTA) Thanksgiving event. As TTA sits at the heart of Taiwan's startup and tech ecosystem, I designed a key visual that captures that forward-looking spirit while carrying the warmth of the holiday.
+A campaign design project for [Taiwan Tech Arena's (TTA)](https://www.taiwanarena.tech/) Thanksgiving event. As TTA sits at the heart of Taiwan's startup and tech ecosystem, I designed a key visual that captures that forward-looking spirit while carrying the warmth of the holiday.
 
 ## Visual Concept
 
@@ -26,3 +26,9 @@ To convey the warmth of the season, I introduced orange—the complementary colo
 For messaging, I trusted the tension of the background visual to spark curiosity on its own, so I focused on simplicity, readability, and overall harmony—avoiding unnecessary text effects or extra colors. Detailed event information and a call-to-action were presented concisely alongside the registration form link.
 
 This approach also aligns with current commercial poster-design trends: a bold, clearly themed visual that immediately sparks association and curiosity, drawing stronger interest in the event itself.
+
+--- 
+
+- **Skills:** Campaign Planning · Audience Engagement · Content Development 
+
+- **Tools:** Adobe Illustrator · Adobe Photoshop

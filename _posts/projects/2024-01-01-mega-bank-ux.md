@@ -23,17 +23,17 @@ images:
 - url: mega-ux-07.png
   caption: "After building the high-fidelity (Hi-Fi) prototype, form responses and user feedback helped quantify the project's impact and define directions for future work."
 ---
-A team UX/UI project to redesign the online foreign exchange (currency settlement) service of Mega International Commercial Bank. The goal was to streamline operations, reduce friction, and create an intuitive, premium online remittance experience—grounded in real user research rather than assumptions.
-
-[See Our Project](https://jefflingit.github.io/Mega-bank-Redesign-Project/index.html)
+[View Our Project](https://jefflingit.github.io/Mega-bank-Redesign-Project/index.html)
 
 [Try Redesign Prototype](https://www.figma.com/proto/0ePRvFx5cZqGLaAku9Y55M/Hi-Fi-Prototype?type=design&node-id=224-21946&scaling=scale-down&page-id=0%3A1&starting-point-node-id=224%3A21946&show-proto-sidebar=1)
+
+A team UX/UI project to redesign the [online foreign exchange service](https://ebank.megabank.com.tw/global2/fscontent.jsp) of Mega International Commercial Bank. The goal was to streamline operations, reduce friction, and create an intuitive, premium online remittance experience—grounded in real user research rather than assumptions.
 
 ## Contextual Inquiry Summary
 
 We concluded our four interviewees' pain points, then analyzed and modeled user behavior to bring new insights into the user experience of an online foreign exchange system.
 
-**Demographics** — A total of four respondents, aged 20–55, were interviewed: one with online money exchange experience and the rest with physical money exchange experience. Two of the younger respondents had more experience with online financial services. [Transcript](https://jefflingit.github.io/Mega-bank-Redesign-Project/Transcript.html)
+**Demographics** — A total of four respondents, aged 20–55, were interviewed: one with online money exchange experience and the rest with physical money exchange experience. Two of the younger respondents had more experience with online financial services. We couclude our four interviewees' painponit [here](https://jefflingit.github.io/Mega-bank-Redesign-Project/Transcript.html).
 
 **Goals and motivations** — Each respondent performed the same task: starting from Mega Bank's online home page, use its service to transfer 500,000 KRW online for travel purposes. We observed the obstacles and pain points that emerged during the process, then analyzed and optimized them as a reference for improving the website's online remittance experience.
 
@@ -52,3 +52,7 @@ We concluded our four interviewees' pain points, then analyzed and modeled user 
 **2. Customized information** — Personalized input fields need more support and shouldn't assume users already know everything. Users need clearer information on branch locations, more explanation in the exchange-unit drop-down, and better fill-in support for open personal-information fields.
 
 **3. Layout readability** — Important information needs clearer, more precise placement. Flowcharts could inform users of online-settlement cautions in advance and repeat on each page; the overall layout should let users read and notice key information naturally.
+
+---
+
+- **Skills:** Figma · Miro · HTML
