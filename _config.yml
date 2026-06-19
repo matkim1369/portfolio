@@ -22,7 +22,7 @@ title: matthew wang
 email: kim75559@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cross-functional project integrator and hands-on independent researcher, working across government, academia, and Taiwan's startup ecosystem.
-baseurl: "/portfolio-website" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://matkim1369.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:slug/
 github_username: matkim1369
